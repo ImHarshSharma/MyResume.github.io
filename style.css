@@ -487,3 +487,13 @@ section:nth-child(2n) {
   height: inherit;
   width: 50%;
 }
+
+.seventy-five-percent{
+  height: inherit;
+  width: 75%;
+}
+
+.Ninty-percent{
+  height: inherit;
+  width: 90%;
+}
